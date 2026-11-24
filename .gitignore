@@ -1,0 +1,6 @@
+# match data are not redistributed (see data/README.md)
+data/*
+!data/README.md
+__pycache__/
+*.pyc
+.DS_Store

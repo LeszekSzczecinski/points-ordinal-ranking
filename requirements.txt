@@ -1,0 +1,7 @@
+# Versions used for the results in the paper (Python 3.11.7)
+numpy==1.26.4
+scipy==1.12.0
+pandas==2.2.0
+jax==0.4.24
+jaxlib==0.4.24
+jaxopt==0.8.3
